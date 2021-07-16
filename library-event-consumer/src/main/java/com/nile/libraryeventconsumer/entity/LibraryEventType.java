@@ -1,4 +1,4 @@
-package com.nile.libraryeventproducer.domain;
+package com.nile.libraryeventconsumer.entity;
 
 public enum  LibraryEventType {
     NEW , UPDATE
